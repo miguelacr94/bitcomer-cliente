@@ -1,0 +1,12 @@
+
+
+.input_radio ~ .icon-check {
+  display: none;
+}
+
+.input_radio:checked{
+  display: none;
+}
+.input_radio[type="radio"]:checked ~ .icon-check{
+  display: flex;
+}

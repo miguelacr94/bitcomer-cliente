@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65">
+  <g id="Circle_Button" data-name="Circle Button" transform="translate(0.155)">
+    <rect id="Area" width="65" height="65" rx="32.5" transform="translate(-0.155)" fill="#5768f3"/>
+    <g id="Icon" transform="translate(19.278 19.278)">
+      <rect id="Area-2" data-name="Area" width="27" height="27" transform="translate(-0.433 -0.278)" fill="#fcfcfc" opacity="0"/>
+      <g id="Icon-2" data-name="Icon" transform="translate(0 2.191)">
+        <path id="_96d7ff00-b6b0-4db2-90fa-34606ab630f6" data-name="96d7ff00-b6b0-4db2-90fa-34606ab630f6" d="M16.25,30.657,27.2,19.7,16.25,8.75" transform="translate(-0.915 -8.75)" fill="none" stroke="#fcfcfc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+        <path id="c6ac2cc2-adb9-4752-9669-9232d1586f0c" d="M7.5,30.657,18.453,19.7,7.5,8.75" transform="translate(-7.5 -8.75)" fill="none" stroke="#fcfcfc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

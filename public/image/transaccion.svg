@@ -1,0 +1,10 @@
+<svg id="Icon" xmlns="http://www.w3.org/2000/svg" width="25.188" height="26.332" viewBox="0 0 25.188 26.332">
+  <g id="Grupo" opacity="0">
+    <rect id="Area" width="25.188" height="25.188" fill="#5768f3"/>
+    <path id="Area_-_Contorno" data-name="Area - Contorno" d="M1.259,1.259V23.928H23.928V1.259H1.259M0,0H25.188V25.188H0Z" fill="#fd49c6"/>
+  </g>
+  <g id="Icon-2" data-name="Icon" transform="translate(6.87 1.145)">
+    <line id="c0852338-bd9b-4380-bc9d-c591faaa02e2" y2="25.188" transform="translate(6.869 0)" fill="none" stroke="#fff" stroke-width="2"/>
+    <path id="c116f193-a1cd-4c5b-a495-09b9c7850100" d="M18.049,4.545H9.461a4.007,4.007,0,0,0,0,8.015h5.725a4.007,4.007,0,0,1,0,8.015H5.455" transform="translate(-5.455 0.034)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.818"/>
+  </g>
+</svg>

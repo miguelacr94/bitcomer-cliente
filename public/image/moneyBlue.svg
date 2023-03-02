@@ -1,0 +1,9 @@
+<svg id="Icon" xmlns="http://www.w3.org/2000/svg" width="47" height="47" viewBox="0 0 47 47">
+  <rect id="Area" width="47" height="47" fill="#fcfcfc" opacity="0"/>
+  <g id="Icon-2" data-name="Icon">
+    <path id="a9a063f1-07c3-438f-8ee6-68c6dfe79d6b" d="M0,0H46.744V46.744H0Z" fill="none"/>
+    <path id="_1525bb5f-30a6-4dad-9de6-de94eeda6175" data-name="1525bb5f-30a6-4dad-9de6-de94eeda6175" d="M34.5,8.343c0,3.228-6.977,5.843-15.582,5.843S3.333,11.571,3.333,8.343,10.31,2.5,18.915,2.5,34.5,5.115,34.5,8.343Z" transform="translate(4.457 3.343)" fill="none" stroke="#5768f3" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="_4c5fb28a-4145-4b0b-8e34-d5a15ef5b413" data-name="4c5fb28a-4145-4b0b-8e34-d5a15ef5b413" d="M3.333,5V16.686c0,3.228,6.977,5.843,15.582,5.843a38.763,38.763,0,0,0,6.432-.519m9.15-5.324V5" transform="translate(4.457 6.686)" fill="none" stroke="#5768f3" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="_7e018b31-4471-4e16-985d-199815f99e13" data-name="7e018b31-4471-4e16-985d-199815f99e13" d="M3.333,10V21.686c0,3.115,6.5,5.658,14.682,5.834M34.5,13.9V10M22.811,23.633H36.444M30.6,17.79l5.843,5.843L30.6,29.476" transform="translate(4.457 13.372)" fill="none" stroke="#5768f3" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>
